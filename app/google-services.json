@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090365330239",
+    "project_id": "smartguard-2352a",
+    "storage_bucket": "smartguard-2352a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090365330239:android:50e00d855fb4f8f576f98a",
+        "android_client_info": {
+          "package_name": "com.google.smartguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChSF3nR2NouU4-HDOFceLRkfhVLvfMR6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
