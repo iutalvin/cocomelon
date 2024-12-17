@@ -1,2 +1,0 @@
-# cocomelon
-finalProject
